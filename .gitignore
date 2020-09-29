@@ -1,2 +1,9 @@
-# Google App Engine generated folder
-appengine-generated/
+# Ignore Logs
+logs
+*.log
+*.xml
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sw*
