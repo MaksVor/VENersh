@@ -1,0 +1,11 @@
+C:\Users\4-1p9.KPC\VENersh\KOFFEE\KOFFEE\bin\Debug\netcoreapp2.1\KOFFEE.deps.json
+C:\Users\4-1p9.KPC\VENersh\KOFFEE\KOFFEE\bin\Debug\netcoreapp2.1\KOFFEE.runtimeconfig.json
+C:\Users\4-1p9.KPC\VENersh\KOFFEE\KOFFEE\bin\Debug\netcoreapp2.1\KOFFEE.runtimeconfig.dev.json
+C:\Users\4-1p9.KPC\VENersh\KOFFEE\KOFFEE\bin\Debug\netcoreapp2.1\KOFFEE.dll
+C:\Users\4-1p9.KPC\VENersh\KOFFEE\KOFFEE\bin\Debug\netcoreapp2.1\KOFFEE.pdb
+C:\Users\4-1p9.KPC\VENersh\KOFFEE\KOFFEE\obj\Debug\netcoreapp2.1\KOFFEE.csprojAssemblyReference.cache
+C:\Users\4-1p9.KPC\VENersh\KOFFEE\KOFFEE\obj\Debug\netcoreapp2.1\KOFFEE.csproj.CoreCompileInputs.cache
+C:\Users\4-1p9.KPC\VENersh\KOFFEE\KOFFEE\obj\Debug\netcoreapp2.1\KOFFEE.AssemblyInfoInputs.cache
+C:\Users\4-1p9.KPC\VENersh\KOFFEE\KOFFEE\obj\Debug\netcoreapp2.1\KOFFEE.AssemblyInfo.cs
+C:\Users\4-1p9.KPC\VENersh\KOFFEE\KOFFEE\obj\Debug\netcoreapp2.1\KOFFEE.dll
+C:\Users\4-1p9.KPC\VENersh\KOFFEE\KOFFEE\obj\Debug\netcoreapp2.1\KOFFEE.pdb
